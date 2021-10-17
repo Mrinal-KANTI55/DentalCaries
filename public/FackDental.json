@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "616c585ee2271bb2133730a5",
+    "price": "210",
+    "picture": "https://acedentalimplantclinic.com/wp-content/uploads/2020/11/fluoride-treatment.png",
+    "name": "Fluoride treatments",
+    "address": "276 Sedgwick Street, Chestnut, Texas, 1079",
+    "about": "If your cavity just started, a fluoride treatment may help restore your tooth's enamel and can sometimes reverse a cavity in the very early stages. Professional fluoride treatments contain more fluoride than the amount found in tap water, toothpaste and mouth rinses. Fluoride treatments may be liquid, gel, foam or varnish that's brushed onto your teeth or placed in a small tray that fits over your teeth.\r\n"
+  },
+  {
+    "_id": "616c585e494ac9fd0826ce6d",
+    "price": "130",
+    "picture": "https://sabkadentist.com/wp-content/uploads/2020/04/Types-0f-Teeth-Fillings.png",
+    "name": "Fillings",
+    "address": "524 Concord Street, Abrams, New Jersey, 7893",
+    "about": " Fillings, also called restorations, are the main treatment option when decay has progressed beyond the earliest stage. Fillings are made of various materials, such as tooth-colored composite resins, porcelain or dental amalgam that is a combination of several materials.\r\n"
+  },
+  {
+    "_id": "616c585ef1a6b76bb2907c75",
+    "price": "343",
+    "picture": "https://www.ilajak.com/uploads/posts/b3702d0555d60c8e75efae5b706a876e14.jpg",
+    "name": "Crowns",
+    "address": "For extensive decay or weakened teeth, you may need a crown — a custom-fitted covering that replaces your tooth's entire natural crown. Your dentist drills away all the decayed area and enough of the rest of your tooth to ensure a good fit. Crowns may be made of gold, high strength porcelain, resin, porcelain fused to metal or other materials.\r\n"
+  },
+  {
+    "_id": "616c585e79198fa54d4b3f7b",
+    "price": "110",
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/3/39/Root_Canal_Illustration_Molar.svg",
+    "name": "Root canals",
+    "address": "109 Bridgewater Street, Dunbar, Alaska, 1235",
+    "about": "When decay reaches the inner material of your tooth (pulp), you may need a root canal. This is a treatment to repair and save a badly damaged or infected tooth instead of removing it. The diseased tooth pulp is removed. Medication is sometimes put into the root canal to clear any infection. Then the pulp is replaced with a filling.\r\n"
+  },
+  {
+    "_id": "616c585ed1499fa7c2bbf9d5",
+    "price": "100",
+    "picture": "https://cdn.dhamadison.com/wp-content/uploads/2020/09/05205006/extraction_illus.jpg",
+    "name": "Tooth extractions",
+    "address": "449 Scholes Street, Abiquiu, Federated States Of Micronesia, 9054",
+    "about": "Some teeth become so severely decayed that they can't be restored and must be removed. Having a tooth pulled can leave a gap that allows your other teeth to shift. If possible, consider getting a bridge or a dental implant to replace the missing tooth.\r\n"
+  },
+  {
+    "_id": "616c585e9ada89591f0ad482",
+    "price": "200",
+    "picture": "https://batidentalclinic.com/wp-content/uploads/2015/09/Dental-Implant-1-1024x493.jpg",
+    "name": "Dental Implants ",
+    "address": "906 Pioneer Street, Retsof, California, 5296",
+    "about": "Dental implants have changed the way dentistry has evolved over the last 25 years. An implants is a replacement for the root or roots of a tooth. They are used to secure crowns to the jawbone using titanium and titanium alloy. These metals are used because they are lightweight and biocompatible – which means they aren’t rejected by the body. Dental implants are used to replace teeth due to decay, disease, oral cancer, or a number of causes like smoking or alcoholism.\r\n"
+  },
+  {
+    "_id": "616c585eb19cb870a248d84e",
+    "price": "180",
+    "picture": "https://d1l9wtg77iuzz5.cloudfront.net/assets/5501/249439/original.jpg?1543273292",
+    "name": "Reconstructive",
+    "address": "758 Haring Street, Evergreen, Hawaii, 406",
+    "about": "Accidents happen, and when there is damage to the face due to sports injuries, falls, work-related incidents, or any kind of facial trauma, it can be scary and stressful. That’s why seeing an oral surgeon is the best course of action – they can offer solutions that will have you looking your best in no time! Dental surgery for facial reconstruction breaks down into two categories – soft tissue injuries and fractures..\r\n"
+  },
+  {
+    "_id": "616c585e8bf8c7627f094260",
+    "price": "102",
+    "picture": "https://sa1s3optim.patientpop.com/assets/docs/229273.jpg",
+    "name": "Cosmetic",
+    "address": "333 Grove Street, Allison, Oklahoma, 1031",
+    "about": "Cosmetic dental surgery comes in many different forms. Many times, cosmetic surgery is not a medically necessary procedure, but is used to improve the patient’s face or smile.  Cosmetic procedures covers minor treatments like teeth whitening and investments like orthodonture.\r\n"
+  },
+  {
+    "_id": "616c585eb8f2464bcd79f9f6",
+    "price": "100",
+    "picture": "https://www.camelbackpedoortho.com/wp-content/uploads/orthodontic-treatment-can-be-used-to-close-gaps-between-teeth.jpg",
+    "name": "orthodontic",
+    "address": "853 Maple Avenue, Coaldale, Wyoming, 9640",
+    "about": "Aute eu consectetur et enim incididunt commodo ad pariatur et ad commodo cillum anim ad. Cillum quis aliqua qui pariatur deserunt incididunt dolore minim dolore aliqua. Ipsum nisi aliqua ipsum in occaecat qui minim ut consectetur irure.\r\n"
+  }
+]
