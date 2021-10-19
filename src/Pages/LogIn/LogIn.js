@@ -7,9 +7,7 @@ import useAuth from '../../Hooks/UseAuth/UseAuth';
 const LogIn = () => {
     const location = useLocation();
     const history = useHistory();
-    console.log('come from ', location.state?.from);
     const PreviousLocation = location.state?.from || '/home';
-
     const { user, signOutButton, userSignIn, userCreateAnAccount, googleSignUp } = useAuth();
 
     const [emails, setEmail] = useState('');
