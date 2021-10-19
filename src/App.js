@@ -11,6 +11,7 @@ import SelectService from './Pages/Services/SelectService/SelectService';
 import Footer from './Pages/Home/Footer/Footer';
 import HealthyFoods from './Pages/HealthyFoods/HealthyFoods';
 import Help from './Pages/Help/Help';
+import NotFound from './Pages/NotFound/NotFound';
 
 function App() {
   return (
@@ -40,6 +41,9 @@ function App() {
           <PrivateRoute path='/selectservice/:serviceid'>
             <SelectService></SelectService>
           </PrivateRoute>
+          <Route path='*'>
+          <NotFound></NotFound>
+          </Route>
         </Switch>
         <Footer></Footer>
         </BrowserRouter>
