@@ -11,18 +11,6 @@ const UseFier = () => {
     const googleSignUp = () => {
         setIsLoading(true);
         return signInWithPopup(auth, googleProvider);
-            // .then(result => {
-            //     const { displayName, email, photoURL } = result.user;
-            //     const userInfo = {
-            //         name: displayName,
-            //         mail: email,
-            //         image: photoURL
-            //     };
-            //     setUser(userInfo);
-            // })
-            // .catch(error => { console.log(error.massage); })
-            // .finally(()=>setIsLoading(false));
-
     }
     useEffect(() => {
         const unsubscribed = onAuthStateChanged(auth, (user) => {
@@ -47,18 +35,6 @@ const UseFier = () => {
     const userSignIn = (emails, passwords) => {
         setIsLoading(true);
         return signInWithEmailAndPassword(auth, emails, passwords);
-            // .then(result => {
-            //     const { displayName, email, photoURL } = result.user;
-            //     const UserInfos = {
-            //         name: displayName,
-            //         mail: email,
-            //         pic: photoURL
-            //     };
-            //     setUser(UserInfos);
-            // })
-            // .catch(error => console.log(error.massage))
-            // .finally(()=>setIsLoading(false));
-
     }
     const userCreateAnAccount = (emails, passwords) => {
         setIsLoading(true);
