@@ -7,7 +7,6 @@ const Services = () => {
 
     return (
         <div className='container my-5'>
-            <h4>this is services</h4>
             <Row xs={1} md={2} lg={3} className="g-2">
             {
                 service.map(service => <Service service={service}

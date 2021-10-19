@@ -15,7 +15,7 @@ const Header = () => {
                         <Nav className="me-auto">
                         <Link className='text-light text-decoration-none me-3' to="/home">Home</Link>
                         <Link className='text-light text-decoration-none me-3' to="/servises">Services</Link>
-                        <Link className='text-light text-decoration-none me-3' to="/about">About</Link>
+                        <Link className='text-light text-decoration-none me-3' to="/healthyfoods">HealthyFoods</Link>
                         <Link className='text-light text-decoration-none me-3' to="/help">Help</Link>
                         <Link className='text-light text-decoration-none me-3' to="/login">{!user.email ? 'Log In':
                         <Button onClick={signOutButton} >log Out</Button> }</Link>

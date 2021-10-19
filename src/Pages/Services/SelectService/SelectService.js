@@ -1,5 +1,5 @@
 import { useParams } from 'react-router';
-import data from './FackDentalService.json'
+import data from './FackDentalService.json';
 
 const SelectService = () => {
     const { serviceid } = useParams();

@@ -8,6 +8,9 @@ import AuthProvider from './UseContext/AuthProvider';
 import Services from './Pages/Services/Services';
 import PrivateRoute from './Pages/LogIn/PrivateRoute/PrivateRoute';
 import SelectService from './Pages/Services/SelectService/SelectService';
+import Footer from './Pages/Home/Footer/Footer';
+import HealthyFoods from './Pages/HealthyFoods/HealthyFoods';
+import Help from './Pages/Help/Help';
 
 function App() {
   return (
@@ -25,13 +28,20 @@ function App() {
           <Route path='/servises'>
           <Services></Services>
           </Route>
+          <Route path='/healthyfoods'>
+          <HealthyFoods></HealthyFoods>
+          </Route>
           <Route path='/login'>
           <LogIn></LogIn>
+          </Route>
+          <Route path='/help'>
+          <Help></Help>
           </Route>
           <PrivateRoute path='/selectservice/:serviceid'>
             <SelectService></SelectService>
           </PrivateRoute>
         </Switch>
+        <Footer></Footer>
         </BrowserRouter>
       </AuthProvider>
     </div>
