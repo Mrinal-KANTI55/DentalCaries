@@ -35,7 +35,7 @@ const UseFier = () => {
             setIsLoading(false);
         });
         return () => unsubscribed;
-    }, []);
+    }, [auth]);
     const signOutButton = () => {
         setIsLoading(true);
         signOut(auth)
