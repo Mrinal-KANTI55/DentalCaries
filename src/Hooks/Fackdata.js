@@ -5,11 +5,10 @@ const Fackdata = () => {
     useEffect(()=>{
         fetch('./FackDental.json')
         .then(response=>response.json())
-        .then(data=>setService(data));
+        .then(data=>{setService(data)});
 
     },[])
-
-    return [service,setService];
+    return service;
 };
 
 export default Fackdata;
