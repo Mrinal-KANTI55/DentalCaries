@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDjuTqgTopNv490HtPTcclLsOts31nkbng",
-    authDomain: "dental-caries.firebaseapp.com",
-    projectId: "dental-caries",
-    storageBucket: "dental-caries.appspot.com",
-    messagingSenderId: "988883142848",
-    appId: "1:988883142848:web:9cccb84b7cc37030dd4525"
-  };
+  apiKey: "AIzaSyDRF7xBVRTobiwmgCUWhKYDhI3WXiGY08w",
+  authDomain: "dental-caries-2f86a.firebaseapp.com",
+  projectId: "dental-caries-2f86a",
+  storageBucket: "dental-caries-2f86a.appspot.com",
+  messagingSenderId: "42227344445",
+  appId: "1:42227344445:web:8f8428de75e924923cf654"
+};
   export default firebaseConfig;
